@@ -1,8 +1,5 @@
 # image_list
 
-A new Flutter project.
+A new Flutter project to test different image view styles.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Makes network calls to json typicode.
